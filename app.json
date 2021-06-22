@@ -1,0 +1,12 @@
+{
+  "name": "gincanavolt",
+  "displayName": "gincanavolt",
+  "expo": {
+    "name": "gincanavolt",
+    "slug": "gincanavolt",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
